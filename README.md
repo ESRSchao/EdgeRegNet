@@ -31,4 +31,4 @@ The source code for training and testing will be provided after the paper is acc
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c)
