@@ -24,7 +24,7 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 
 ---
 
-## test
+## Test
 
 Before the evaluation, you should download the KITTI dataset and nuScenes dataset, or use our proprocessed dataset by [this link](https://drive.google.com/file/d/1oadj5iqrW9XUMufQQB2nvVd1sucbapr3/view?usp=sharing), which is much more convenient.
 In Addition, pretrained model also needs to be downloaded [here](https://drive.google.com/file/d/1Aj3a5sncsVISk-mGhEZVrZxggsTO6S3u/view?usp=sharing) and saved in ./ck folder.
@@ -34,7 +34,7 @@ python test.py
 ```
 After this process, KITTI.csv will be created in the root folder, which contains the result of experment.
 
-## Training
+## Train
 The details of training and testing will be provided after the paper is accepted.
 
 ## Contributing
